@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fireDate</key>
+	<date>2014-11-10T07:54:50Z</date>
+	<key>isNotificationMissed</key>
+	<true/>
+	<key>repeatInterval</key>
+	<integer>0</integer>
+</dict>
+</plist>
