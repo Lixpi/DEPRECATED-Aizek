@@ -26,3 +26,5 @@ Filter for photoes in date range
 Configure reminders
 
 ![alt text](graphical_assets/screens_preview/screen_6.jpg "Settings")
+
+Code is a piece of shit, sorry... I'm not an author of code. The designer on the other hand did a great job! 
